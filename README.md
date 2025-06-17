@@ -6,4 +6,4 @@ This repository contains the main documentation for the Snappick eCommerce mobil
 📊 Gantt Chart (Timeline & Scheduling)  
 ✅ Test Plan (QA documentation)  
 
-Created by Ome Shifa | Final Year Project | 2025
+Created by Ome Shifa | Final Year Project | 202
